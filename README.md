@@ -4,7 +4,7 @@ I am a Software Engineer in training, possessing a drive to constantly develop a
 
 I have worked in consultancy for the past 6 years in the areas of information security and trade risk. I have enjoyed these roles, and personally gained a lot from them. However, I have held a desire to focus my career in a more technical area as this aligns to my core strengths. I am currently completing the Makers Academy 12-week software development bootcamp with a view to kickstarting a career in the tech industry.
 
-I am keen to find a role with a company which is passionate about its technology, and equally passionate about its people and their development. I want to find a space where I can grow and develop my skills whilst contributing to a motivated team and a quality product.
+To find a role with a company which is passionate about its technology, and equally passionate about its people and their development is my goal. I want to find a space where I can grow and develop my skills whilst contributing to a motivated team and a quality product.
 
 ## Projects
 | Title        | Timeframe          | What is it? |
@@ -75,3 +75,4 @@ KPMG (May 2016 - Present) - Unstructured Data Analytics
 KPMG (September 2011 - May 2016) - Information Security
 * Joined KPMG's information security team as a graduate analyst
 * Project highlights - delivery of two-year project to protect business critical databases for international oil & gas company, secondment to a government cyber intelligence team, delivery of series of physical and data security reviews for global credit card company
+* Experience in cyber and physical security, privacy, business continuity, cyber intelligence, security audit.
