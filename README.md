@@ -8,7 +8,7 @@ To find a role with a company which is passionate about its technology, and equa
 
 ## Projects
 | Title        | Timeframe          | What is it? |
-| :---------:  | ------------- |-------------| -------|
+| ---------  | ------------- |-------------| -------|
 | [Newsworthy](LINK HERE)      | 1 week |  A command-line app written in Python which uses machine learning to classify a piece of writing as 'real news' or 'fake news'.|
 | [Acebook](https://github.com/cdscally/acebook)    | 1 week     |  A Facebook clone written in Rails with functionality to sign in/out, post, comment, like and flag. Includes a 'fake news' designation using a simple blacklist. [Live Deployment](https://theacebook.herokuapp.com) |
 | [Rock Paper Scissors](https://github.com/cdscally/rps-challenge) | 2 days    |  A simple Rock, Paper, Scissors game built in Ruby. Locally deployable using Sinatra. Tested using RSpec and Capybara. |
