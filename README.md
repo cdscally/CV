@@ -7,12 +7,12 @@ I have worked in consultancy for the past 6 years in the areas of information se
 To find a role with a company which is passionate about its technology, and equally passionate about its people and their development is my goal. I want to find a space where I can grow and develop my skills whilst contributing to a motivated team and a quality product.
 
 ## Projects
-| Title        | Timeframe          | What is it? |
-| ---------  | ------------- |-------------| -------|
-| [Newsworthy](LINK HERE)      | 1 week |  A command-line app written in Python which uses machine learning to classify a piece of writing as 'real news' or 'fake news'.|
-| [Acebook](https://github.com/cdscally/acebook)    | 1 week     |  A Facebook clone written in Rails with functionality to sign in/out, post, comment, like and flag. Includes a 'fake news' designation using a simple blacklist. [Live Deployment](https://theacebook.herokuapp.com) |
-| [Rock Paper Scissors](https://github.com/cdscally/rps-challenge) | 2 days    |  A simple Rock, Paper, Scissors game built in Ruby. Locally deployable using Sinatra. Tested using RSpec and Capybara. |
 
+Title   | Timeframe  | What is it? 
+-- | -- | --
+[Newsworthy](https://github.com/cdscally/newsworthy-app) | 1 week | A command-line app written in Python which uses machine learning to classify a piece of writing as 'real news' or 'fake news'.
+[Acebook](https://github.com/cdscally/acebook) | 1 week | A Facebook clone written in Rails with functionality to sign in/out, post, comment, like and flag. Includes a 'fake news' designation using a simple blacklist. [Live Deployment]
+[Rock Paper Scissors](https://github.com/cdscally/rps-challenge) | 2 days | A simple Rock, Paper, Scissors game built in Ruby. Locally deployable using Sinatra. Tested using RSpec and Capybara. 
 
 ## Skills
 
