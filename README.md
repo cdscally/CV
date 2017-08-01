@@ -43,12 +43,9 @@ My recent experience at Makers Academy has, through its immersive approach, requ
 
 #### Makers Academy (May 2017 - July 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript
-- RSpec, Jasmine
+- I decided to complete the Makers Academy course as I have a passion to quickly learn and build my development skills. The course is structured to reward curiosity, independent learning and problem-solving skills.
+- Foundation in development frameworks and best practices such as OOP, TDD, SOLID, MVC
+- Exposure to a wide range of languages and frameworks such as Ruby, Rails, Javascript, jQuery, Python, Solidity, RSpec, Jasmine, Capybara
 
 #### University College London (September 2010 - September 2011)
 
