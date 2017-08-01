@@ -22,7 +22,7 @@ Title   | Timeframe  | What is it?
 
 #### Analytical
 
-My educational and professional background has equipped me with a strong analytical skillset:
+My education and professional background has equipped me with a strong analytical skillset:
 * My most recent role has involved processing and analysis of large volumes of communications data for global banks
 * My previous role regularly required analysis of clients' information security management, processes and systems
 * My MSc largely involved data synthesis and analysis focusing on crime prevention, and I was awarded a mark of Distinction
