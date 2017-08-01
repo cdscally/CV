@@ -1,20 +1,24 @@
 ## Colin Scally
 
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience)
+
+
 I am a Software Engineer in training, possessing a drive to constantly develop and improve my skills.
 
 I have worked in consultancy for the past 6 years in the areas of information security and trade risk. I have enjoyed these roles, and personally gained a lot from them. However, I have held a desire to focus my career in a more technical area as this aligns to my core strengths. I am currently completing the Makers Academy 12-week software development bootcamp with a view to kickstarting a career in the tech industry.
 
 To find a role with a company which is passionate about its technology, and equally passionate about its people and their development is my goal. I want to find a space where I can grow and develop my skills whilst contributing to a motivated team and a quality product.
 
-## Projects
+## <a name="Projects">Projects</a>
 
-Title   | Timeframe  | What is it? 
+Title   | Timeframe  | What is it?
 -- | -- | --
+[Deblocracy](https://github.com/cdscally/deblocracy) | 2 weeks | An implementation of a decentralised voting system using smart contract and blockchain technology. Written in Solidity/Javascript and tested using Truffle.
 [Newsworthy](https://github.com/cdscally/newsworthy-app) | 1 week | A command-line app written in Python which uses machine learning to classify a piece of writing as 'real news' or 'fake news'.
 [Acebook](https://github.com/cdscally/acebook) | 1 week | A Facebook clone written in Rails with functionality to sign in/out, post, comment, like and flag. Includes a 'fake news' designation using a simple blacklist. [Live Deployment](http://theacebook.herokuapp.com/)
-[Rock Paper Scissors](https://github.com/cdscally/rps-challenge) | 2 days | A simple Rock, Paper, Scissors game built in Ruby. Locally deployable using Sinatra. Tested using RSpec and Capybara. 
+[Rock Paper Scissors](https://github.com/cdscally/rps-challenge) | 2 days | A simple Rock, Paper, Scissors game built in Ruby. Locally deployable using Sinatra. Tested using RSpec and Capybara.
 
-## Skills
+## <a name="Skills">Skills</a>
 
 #### Analytical
 
@@ -35,8 +39,7 @@ I have a broad history of experience in a range of fields, including hard scienc
 My recent experience at Makers Academy has, through its immersive approach, required me to pick up many new concepts in a short space of time and implement them - a process which I have greatly enjoyed.
 
 
-## Projects
-## Education
+## <a name="Education">Education</a>
 
 #### Makers Academy (May 2017 - July 2017)
 
@@ -63,7 +66,7 @@ My recent experience at Makers Academy has, through its immersive approach, requ
 
 - Irish Leaving Certificate (A-level equivalent): 575 points, placing in 99th percentile nationally. Subjects examined - English, Mathematics, French, Geography, Physics, Applied Mathematics, Art
 
-## Experience
+## <a name="Experience">Experience</a>
 
 KPMG (May 2016 - Present) - Unstructured Data Analytics
 * Delivery of projects for a number of global banks in the area of trader risk surveillance - including data receipt, processing, analysis, volume reduction and review
