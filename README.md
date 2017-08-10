@@ -1,6 +1,6 @@
 ## Colin Scally
 
-###colin.scally@gmail.com
+### colin.scally@gmail.com
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience)
 
